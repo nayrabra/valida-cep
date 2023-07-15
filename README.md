@@ -9,9 +9,9 @@ Este projeto tem como objetivo praticar JavaScript, utilizando arrow functions, 
 | :label: Tecnologias  | HTML, CSS e JavaScript                |
 | :rocket: URL         |https://valida-cep-nayrabra.vercel.app/|
 
-<img width="500" height="350" alt="validaCep" src="https://github.com/nayrabra/valida-cep/assets/102299426/e048c1d1-1c6a-4425-98f7-b46fd21298cd#vitrinedev">
+<img width="500" height="350" alt="validaCep" src="https://github.com/nayrabra/valida-cep/assets/102299426/e048c1d1-1c6a-4425-98f7-b46fd21298cd">
 
-<img width="500" height="350" alt="validaCep" src="https://github.com/nayrabra/valida-cep/assets/102299426/a9512c48-f0a8-4912-a82a-55e0a8a01453">
+<img width="500" height="350" alt="validaCep" src="https://github.com/nayrabra/valida-cep/assets/102299426/a9512c48-f0a8-4912-a82a-55e0a8a01453#vitrinedev">
 
 ## Funcionalidades
 
